@@ -4,7 +4,7 @@
  Author: Amicucci Alessandra 14/07/2026 
  
  Dataset: Eurostat 
- Variable: Migration migr_netmigr / Trade ext_lt_intratrd (exports + imports, extra-EA, million €) / GDP nama_10_gdp (B1GQ) / Population demo_pjan / Investment nama_10_gdp(P51G) / Inflation prc_hicp_aind
+ Variable: Migration migr_netmigr / Trade ext_lt_intratrd (exports + imports, extra-EU, million €) / GDP nama_10_gdp (B1GQ) / Population demo_pjan / Investment nama_10_gdp(P51G) / Inflation prc_hicp_aind
  
  Unit of observation: EU27 country × year
  Number of countries: 27
